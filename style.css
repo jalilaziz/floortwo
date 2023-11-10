@@ -40,7 +40,7 @@ body {
 	align-items: flex-end;
 	justify-content: center;
 	animation: start-glass 3s var(--cbz) 0s 1;
-    top: 0;
+    top: 6.5%;
     position:absolute
 }
 
