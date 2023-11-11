@@ -44,14 +44,10 @@ body {
     position:absolute
 }
 
-@keyframes start-glass {
+/* @keyframes start-glass {
 	0% { --glass: 200deg; }
 	100% { --glass: 337deg; }
-}
-
-
-
-
+} */
 
 
 input#day-night:checked ~ .building:before {
